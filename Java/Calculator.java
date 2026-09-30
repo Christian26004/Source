@@ -23,7 +23,7 @@ class Calculator {
 
     // Checks if user input proper operation.
     if (operation != '+' && operation != '-' && operation != '*' && operation != '/') {
-      System.out.print("\nMust be a mathematical oepration +, -, *, or /.");
+      System.out.print("\nMust be a mathematical operation +, -, *, or /.");
     }
       
     // Decides what operation to use.
