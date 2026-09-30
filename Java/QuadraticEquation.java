@@ -13,7 +13,7 @@ class QuadraticEquation {
     double root2 = ( -b - d ) / 2.0;
 
     // Prints the output to the command line.
-    System.out.println(" + " + root1);
-    System.out.println(" - " + root2);
+    System.out.println(root1);
+    System.out.println(root2);
   }
 }
