@@ -1,4 +1,4 @@
-class UniformRandomNumbers {
+public class UniformRandomNumbers {
 
   public static void main(String[] args) {
 

@@ -1,4 +1,4 @@
-class ThreeSort {
+public class ThreeSort {
 
   public static void main(String[] args) {
     

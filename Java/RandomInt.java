@@ -1,4 +1,4 @@
-class RandomInt {
+public class RandomInt {
   
   public static void main(String[] args) {
     
